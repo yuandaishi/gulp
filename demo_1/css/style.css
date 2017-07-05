@@ -1,0 +1,1 @@
+*{margin:0;padding:0}.box{width:500px;height:500px;margin:30px auto;background:#00008b}.box::after,.box::before{content:"";display:block;width:100px;height:100px}.box::before{background:red}.box::after{background:gold}
